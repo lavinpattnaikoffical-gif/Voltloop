@@ -1,2 +1,2 @@
 # Voltloop
-AI-powered community EV charging platform that connects EV drivers with privately owned chargers, enabling convenient charging and helping charger owners monetize idle infrastructure.
+Community-powered EV charging marketplace with AI-driven charger discovery, charging estimation, booking, and AI-assisted charger verification. Voltloop connects EV drivers with privately owned chargers for convenient charging while helping charger owners monetize idle infrastructure.
